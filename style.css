@@ -12,7 +12,7 @@ a{
 }
 nav{
     float: right;
-    margin-top: 45px;
+    margin-top: 4px;
 }
 
 a:hover{
@@ -26,14 +26,9 @@ a:hover{
 }
 
 .homepage{
-border: solid 2px black;
-background-color: black;
-color: white;
-}
-main{
-    border: solid -2px;
-    color: white;]
-    postion: relative;
+    border: solid 2px black;
+    background-color: black;
+    color: white;
 }
 
 img{
@@ -61,3 +56,63 @@ footer{
 .text2{
     font-size: 25px
 }
+
+.hobby{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    border-bottom: solid black;
+}
+
+.section1{
+    font-size: 30px;
+    border-bottom: 1px solid black;
+}
+
+.text{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: absolute;
+    top: 300px;
+}
+
+.text3{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: relative;
+    top: -240px;
+}
+
+.text4{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: relative;
+    top: -240px;
+}
+
+.move{
+    margin-right: 17px;
+}
+
+.section2{
+display: flex;
+flex-direction: column;
+}
+
+.project{
+    border: solid;
+    background-color: white;
+    margin: 0 400px 200px 400px;
+}
+
+.portimage{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+}
+
+.portp{
+    border: 1px solid transparent;
+   margin-right: 500px;
+   font-size: 25px;
+}
+
