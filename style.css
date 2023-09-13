@@ -12,7 +12,7 @@ a{
 }
 nav{
     float: right;
-    margin-top: 45px;
+    margin-top: 4px;
 }
 
 a:hover{
@@ -89,4 +89,30 @@ footer{
     top: -240px;
 }
 
+.move{
+    margin-right: 17px;
+}
+
+.section2{
+display: flex;
+flex-direction: column;
+}
+
+.project{
+    border: solid;
+    background-color: white;
+    margin: 0 400px 200px 400px;
+}
+
+.portimage{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+}
+
+.portp{
+    border: 1px solid transparent;
+   margin-right: 500px;
+   font-size: 25px;
+}
 
