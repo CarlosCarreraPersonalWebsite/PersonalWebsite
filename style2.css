@@ -1,5 +1,5 @@
 body{
-    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20200917/pngtree-blue-color-abstract-background-image_398888.jpg);
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20200917/pngtree-blue-color-abstract-background-image_398888.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -68,4 +68,30 @@ textarea{
 
 button{
     width:  70px;
+}
+
+.mailimage{
+position: relative;
+left: 830px;
+top: 100px;
+}
+
+.submit{
+    font-size: 70px;
+    position: relative;
+    left:  810px;
+    top: 60px;
+}
+
+.backhome{
+    background-color: lightskyblue;
+    border-color: lightblue;
+    border-radius: 10px;
+    width: 100px;
+    height: 45px;
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: 930px;
+    top: 40px;
 }
